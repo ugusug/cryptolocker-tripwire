@@ -1,3 +1,4 @@
+## RUN with powershell as a task on start with these options: -NoExit -NoLogo -File C:\path-to-script\tripwire-watcher.ps1
 ## SETTINGS
 $mailtos = @("recepient1@example.com", "recepient2@example.com", "recepient3@example.com")
 $smtpFrom = "fileserver@example.com"
